@@ -1,5 +1,4 @@
-# PythonCodingTest
-코테 공부임미다
+# CodingTest_Prepare
 ========================
 > programmers school - Python 3   
 > CodingTest_Py
