@@ -20,4 +20,4 @@ def toWeirdCase(s):
     return " ".join(map(lambda x: "".join([a.lower() if i % 2 else a.upper() for i, a in enumerate(x)]), s.split(" ")))
 
 # enumerate 함수를 이용하면 index애 바로 접근이 가능.
-map(lambda 변수: 실행할함수 , 변수를어디서가저올지)
+#map(lambda 변수: 실행할함수 , 변수를어디서가저올지)

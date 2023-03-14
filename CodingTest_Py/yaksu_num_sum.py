@@ -10,3 +10,4 @@ def solution(left, right):
         return solution(left+1,right)+left
     else:
         return solution(left+1,right)-left
+    
